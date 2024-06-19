@@ -4,32 +4,32 @@ function ChefSection() {
     const chefs = [
         {
             name: 'Letsei',
-            img: '/public/images/top-chef/chef1.avif',
+            img: '/public/images/top-chef/1.jpg',
             cuisine: 'Indian'
         },
         {
             name: 'Paupu',
-            img: '/public/images/top-chef/1.jfif',
+            img: '/public/images/top-chef/two.jpg',
             cuisine: 'Indian'
         },
         {
             name: 'Lutpu',
-            img: '/public/images/top-chef/2.jfif',
+            img: '/public/images/top-chef/seven.jpg',
             cuisine: 'Indian'
         },
         {
             name: 'Jangrose',
-            img: '/public/images/top-chef/7.jfif',
+            img: '/public/images/top-chef/four.jpg',
             cuisine: 'Indian'
         },
         {
             name: 'Ngamsei',
-            img: '/public/images/top-chef/5.jfif',
+            img: '/public/images/top-chef/five.jpg',
             cuisine: 'Indian'
         },
         {
             name: 'Seiboi',
-            img: '/public/images/top-chef/6.jfif',
+            img: '/public/images/top-chef/six.jpg',
             cuisine: 'Indian'
         },
 
